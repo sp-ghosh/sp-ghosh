@@ -16,7 +16,7 @@ I'm a data enthusiast who occasioanlly likes to work on projects aimed towards b
 
 <img align="right" src="https://github.com/user-attachments/assets/25fad459-36e0-4b7f-af9f-2f7859f582ae" width="140" alt="programmer illustration"/>
 
-- 🔭 Currently working on personal and open-source projects
+- 🔭 Currently working on personal projects
 - 🌱 Continuously learning and expanding my skill set
 - 💡 Interested in data-driven solutions and elegant interfaces
 - 📫 Reach me via [GitHub](https://github.com/sp-ghosh)
